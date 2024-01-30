@@ -1,0 +1,14 @@
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.AssemblyInfoInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.AssemblyInfo.cs
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.csproj.CoreCompileInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/bin/Debug/net8.0/esercitazione
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/bin/Debug/net8.0/esercitazione.deps.json
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/bin/Debug/net8.0/esercitazione.runtimeconfig.json
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/bin/Debug/net8.0/esercitazione.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/bin/Debug/net8.0/esercitazione.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/refint/esercitazione.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/esercitazione.genruntimeconfig.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_2/esercitazione/obj/Debug/net8.0/ref/esercitazione.dll
